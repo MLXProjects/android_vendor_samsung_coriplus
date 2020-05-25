@@ -1,5 +1,5 @@
 # proprietary_vendor_samsung
 
-* corsica
+* coriplus
 * ivory
 * nevisp
