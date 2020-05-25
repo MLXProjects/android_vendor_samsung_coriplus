@@ -16,23 +16,30 @@
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/coriplus/proprietary/bin/at_distributor:system/bin/at_distributor \
+    vendor/samsung/coriplus/proprietary/bin/atrace:system/bin/atrace \
     vendor/samsung/coriplus/proprietary/bin/atx:system/bin/atx \
     vendor/samsung/coriplus/proprietary/bin/atxd:system/bin/atxd \
-    vendor/samsung/coriplus/proprietary/bin/BCM4330B1_002.001.003.0967.1089.hcd:system/bin/BCM4330B1_002.001.003.0967.1089.hcd \
+    vendor/samsung/coriplus/proprietary/bin/BCM4334B0_002.001.013.0679.0765.hcd:system/bin/BCM4334B0_002.001.013.0679.0765.hcd \
+    vendor/samsung/coriplus/proprietary/bin/bcm_dut:system/bin/bcm_dut \
     vendor/samsung/coriplus/proprietary/bin/bkmgrd:system/bin/bkmgrd \
-    vendor/samsung/coriplus/proprietary/bin/btld:system/bin/btld \
     vendor/samsung/coriplus/proprietary/bin/bluetoothd:system/bin/bluetoothd \
+    vendor/samsung/coriplus/proprietary/bin/brcm_patchram_plus:system/bin/brcm_patchram_plus \
+    vendor/samsung/coriplus/proprietary/bin/btld:system/bin/btld \
     vendor/samsung/coriplus/proprietary/bin/cate_rpc_util:system/bin/cate_rpc_util \
     vendor/samsung/coriplus/proprietary/bin/glgps:system/bin/glgps \
     vendor/samsung/coriplus/proprietary/bin/gps.cer:system/bin/gps.cer \
     vendor/samsung/coriplus/proprietary/bin/gpslogd:system/bin/gpslogd \
     vendor/samsung/coriplus/proprietary/bin/immvibed:system/bin/immvibed \
+    vendor/samsung/coriplus/proprietary/bin/lpmkey:system/bin/lpmkey \
     vendor/samsung/coriplus/proprietary/bin/macloader:system/bin/macloader \
+    vendor/samsung/coriplus/proprietary/bin/mfgloader:system/bin/mfgloader \
     vendor/samsung/coriplus/proprietary/bin/mttlogger:system/bin/mttlogger \
     vendor/samsung/coriplus/proprietary/bin/npsmobex:system/bin/npsmobex \
-    vendor/samsung/coriplus/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/coriplus/proprietary/bin/p2p_supplicant:system/bin/p2p_supplicant \
+    vendor/samsung/coriplus/proprietary/bin/playlpm:system/bin/playlpm \
+    vendor/samsung/coriplus/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/coriplus/proprietary/bin/wlandutservice:system/bin/wlandutservice \
+    vendor/samsung/coriplus/proprietary/bin/wpa_supplicant:system/bin/wpa_supplicant \
     vendor/samsung/coriplus/proprietary/etc/asound.conf:system/etc/asound.conf \
     vendor/samsung/coriplus/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
     vendor/samsung/coriplus/proprietary/etc/DiamondVoice.txt:system/etc/DiamondVoice.txt \
